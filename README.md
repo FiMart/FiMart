@@ -4,13 +4,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!--- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+- 🌱 &nbsp; Learning more about Image Processing, Software Architecture and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.-->
 
-<!--<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -40,7 +39,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>-->
+<br/>
 
 <!--<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
