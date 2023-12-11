@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring New Technologies and Developing Software Solutions.
 - 🎓 &nbsp; Studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 - 🌱 &nbsp; Learning more about Image Processing, Software Architecture and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.-->
+- ✍️ &nbsp; Learning Coding Language and Watch Movie as Hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
-<a href="https://www.linkedin.com/in/thanatorn-tangon-b68ba02a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thanathon%20Tangon%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/thanatorn-tangon-b68ba02a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thanathon%20Tangon%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/wqrfeim/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-wqrfeim-blue?style=flat-square&logo=instagram"></a>
 <!--<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>-->
 </p>
