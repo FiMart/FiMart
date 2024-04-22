@@ -33,7 +33,6 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
-  ![PremierePro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premierepro)
   
 <br/>
 
