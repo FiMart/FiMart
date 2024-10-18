@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring New Technologies and Developing Software Solutions.
 - 🎓 &nbsp; Studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
-- 🌱 &nbsp; Learning more about Image Processing, Software Architecture and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Vue & Tailwind Developer and Figma(UX/UI).
 - ✍️ &nbsp; Learning Coding Language and Watch Movie as Hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
