@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring New Technologies and Developing Software Solutions.
-- 🎓 &nbsp; Studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+- 🎓 &nbsp; Graduate Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 - 🌱 &nbsp; Learning more about Vue & Tailwind Developer and Figma(UX/UI).
 - ✍️ &nbsp; Learning Coding Language and Watch Movie as Hobbies.
 
